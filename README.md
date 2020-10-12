@@ -1,7 +1,7 @@
 # Experion-interview-process
 
                                                                  
-                                                              Python - Instructions to Build & Execute
+                                                      Python - Instructions to Build & Execute
 
 Solution without Build files
 If you are providing a solution without using the build file, we want you to name your Main file as geektrust.py. This is the file that will contain your main method.
